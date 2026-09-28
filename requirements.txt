@@ -4,3 +4,4 @@ sqlalchemy
 google-generativeai
 python-multipart
 psycopg2-binary
+psycopg[binary]
